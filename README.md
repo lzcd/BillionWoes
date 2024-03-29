@@ -25,6 +25,8 @@ Single core all the way.
 
 Single pass parsing and a simple arena bump style allocator for memory management.
 
+It swaps the cost of hashtables for the cost of link-lists. Whether this is a net win or loss will come back to the architecture its running on.
+
 ## Will it be better in the future?
 
 Maybe.
