@@ -23,7 +23,7 @@ Single core all the way.
 
 ## Why isn't it the slowest?
 
-Single pass parsing and a simple area bump style allocator for memory management.
+Single pass parsing and a simple arena bump style allocator for memory management.
 
 ## Will it be better in the future?
 
