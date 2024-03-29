@@ -1,0 +1,1 @@
+gcc app.c -O2 -o app -lm
